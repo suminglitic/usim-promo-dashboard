@@ -5,6 +5,9 @@ on:
     - cron: '0 1 * * *'  # UTC 01:00 = KST 10:00
   workflow_dispatch:  # 수동 실행 가능
 
+permissions:
+  contents: write  # data/ 폴더에 커밋 & push 권한
+
 jobs:
   crawl:
     runs-on: ubuntu-latest
