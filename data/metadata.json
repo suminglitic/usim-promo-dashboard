@@ -1,16 +1,16 @@
 {
   "last_crawl": {
     "SKT": {
-      "date": "2026-07-21",
+      "date": "2026-07-22",
       "success": true,
       "plan_count": 3,
-      "updated_at": "2026-07-21T04:17:24.153931"
+      "updated_at": "2026-07-22T04:17:34.579724"
     },
     "KT": {
-      "date": "2026-07-19",
+      "date": "2026-07-22",
       "success": true,
       "plan_count": 13,
-      "updated_at": "2026-07-19T04:21:54.942985"
+      "updated_at": "2026-07-22T04:17:34.579735"
     },
     "LG": {
       "date": "2026-07-20",
