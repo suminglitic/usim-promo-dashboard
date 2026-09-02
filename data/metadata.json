@@ -1,22 +1,22 @@
 {
   "last_crawl": {
     "SKT": {
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "success": true,
       "plan_count": 3,
-      "updated_at": "2026-09-01T06:04:56.394984"
+      "updated_at": "2026-09-02T05:30:54.666474"
     },
     "KT": {
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "success": true,
       "plan_count": 13,
-      "updated_at": "2026-09-01T06:04:56.394990"
+      "updated_at": "2026-09-02T05:30:54.666482"
     },
     "LG": {
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "success": true,
       "plan_count": 3,
-      "updated_at": "2026-09-01T06:04:56.394973"
+      "updated_at": "2026-09-02T05:30:54.666486"
     }
   }
 }
